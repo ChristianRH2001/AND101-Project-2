@@ -37,7 +37,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif]https://i.imgur.com/3CN6eKE.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/3CN6eKE.gif' title='Video Demo' width='' alt='Video Demo' />
+
+**For the life of me I can't get the GIF to properly embed in the README. The link is there, it just refuses to display
 
 GIF created with **ScreenToGIF**
 
